@@ -111,8 +111,8 @@ Built a browser-based phishing email detection tool directly from hands-on inves
 
 ### TryHackMe Labs
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/pavithrareddy267.png)](https://tryhackme.com/p/pavithrareddy267)
-- Completed 70+ rooms covering SIEM investigations, Linux privilege escalation, malware analysis, incident response, and vulnerability scanning
-- **Badges:** Linux competency, 7-day streak, First Four
+- Completed 80+ rooms covering SIEM investigations, Linux privilege escalation, malware analysis, incident response, and vulnerability scanning
+- **Badges:** 17 badges earned — Top 6% globally (Rank 134,591)
 
 ---
 
