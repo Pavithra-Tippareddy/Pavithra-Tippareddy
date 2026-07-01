@@ -151,7 +151,7 @@ International cybersecurity programme co-funded by the EU Interreg Central Balti
 
 - 📍 Based in **Helsinki, Finland** — EU/EEA work rights, no sponsorship required
 - 🌍 Open to relocation
-- 🕐 Comfortable with 24x7 and shift-based operational environments
+- 🕐 Comfortable with shift-based operational environments
 - 🌐 Languages: English (professional), Hindi & Kannada (native)
 
 ---
